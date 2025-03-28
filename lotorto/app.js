@@ -29,6 +29,14 @@ app.use(function(req, res, next) {
   next(createError(404));
 });
 
+// Gestisci le route non valide
+app.all('*', (req, res) => {
+  res.status(404).json({
+    error: 'Pagina non trovata',
+    message: `La route ${req.originalUrl} non esiste.`
+  });
+});
+
 // error handler
 app.use(function(err, req, res, next) {
   // set locals, only providing error in development
