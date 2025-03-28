@@ -1,0 +1,11 @@
+doctype html
+html
+  head
+    title= "Profilo di " + user.name
+  body
+    h1 Nome: #{user.name.first} #{user.name.last} 
+    p Email: #{user.email}
+    p Genere: #{user.gender}
+    p Città: #{user.city}
+    p Nazione: #{user.country}
+    img(src=user.picture.large)
