@@ -1,0 +1,97 @@
+[
+  {
+    "gender": "male",
+    "email": "robert@gmail.com",
+    "name": {
+      "title": "Mr",
+      "first": "Clément",
+      "last": "Robert"
+    },
+    "id": {
+      "name": "INSEE",
+      "value": "1620695841480 64"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/48.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
+    },
+    "nat": "FR"
+  },
+  {
+    "gender": "male",
+    "email": "g@gmail.com",
+    "name": {
+      "title": "Mr",
+      "first": "كيان",
+      "last": "صدر"
+    },
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/95.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/95.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/95.jpg"
+    },
+    "nat": "IR"
+  },
+  {
+    "gender": "male",
+    "email": "christian@gmail.com",
+    "name": {
+      "title": "Mr",
+      "first": "Christian",
+      "last": "Hansen"
+    },
+    "id": {
+      "name": "CPR",
+      "value": "280472-1399"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/80.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/80.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/80.jpg"
+    },
+    "nat": "DK"
+  },
+  {
+    "gender": "male",
+    "email": "ford@gmail.com",
+    "name": {
+      "title": "Mr",
+      "first": "Angel",
+      "last": "Ford"
+    },
+    "id": {
+      "name": "TFN",
+      "value": "402849471"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/28.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/28.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/28.jpg"
+    },
+    "nat": "AU"
+  },
+  {
+    "gender": "female",
+    "email": "iya@gmail.com",
+    "name": {
+      "title": "Ms",
+      "first": "Iya",
+      "last": "Andrushchenko"
+    },
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/14.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/14.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/14.jpg"
+    },
+    "nat": "UA"
+  }
+]
